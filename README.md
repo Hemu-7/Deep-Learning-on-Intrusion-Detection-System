@@ -30,7 +30,7 @@ This project implements multiple AI-driven approaches for **Intrusion Detection 
 - A hybrid model that integrates **convolutional layers, transformers (self-attention), and LSTM** to capture both spatial and temporal dependencies in network traffic.
 
 ## Dataset Used
-- **NSL-KDD** and **CICIDS2017** datasets are used for training and evaluation.
+- **CICIDS2017** dataset is used for training and evaluation.
 
 ## Installation & Requirements
 
